@@ -1,0 +1,10 @@
+# Ignorar archivos compilados
+*.pyc
+__pycache__/
+*.pyo
+
+# Variables de entorno
+.env
+
+# Archivo de notas de anxo
+notas.txt
